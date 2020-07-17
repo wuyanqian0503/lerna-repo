@@ -14,7 +14,11 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npm install"
   },
-  "gitHead": "8f921cb9f17ab921a4375b33b09029b69274626d"
+  "gitHead": "8f921cb9f17ab921a4375b33b09029b69274626d",
+  "dependencies": {
+    "qs": "^6.9.4"
+  }
 }

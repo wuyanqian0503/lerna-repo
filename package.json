@@ -1,7 +1,13 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "repo20200716",
+  "version": "0.0.1",
+  "scripts": {
+    "aa": "npm config ls"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "qs": "^6.9.4"
   }
 }
